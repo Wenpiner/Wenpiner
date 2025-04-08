@@ -13,12 +13,13 @@
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Objective - C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23EF5038.svg?style=for-the-badge&logo=apple&logoColor=white)
 
 
 ### Blockchain
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)  ![ETH](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![BTC](https://img.shields.io/badge/Bitcoin-FF9900?style=for-the-badge&logo=bitcoin&logoColor=white)
-![TRON](https://img.shields.io/badge/Tron-000000?style=for-the-badge&logo=tron&logoColor=white)
+![TRON](https://img.shields.io/badge/Tron-C23531?style=for-the-badge&logo=tron&logoColor=white)
 ![SOL](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=white) 
 ![TON](https://img.shields.io/badge/Ton-3EADF4?style=for-the-badge&logo=ton&logoColor=white) 
 
